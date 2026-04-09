@@ -16,3 +16,19 @@ It is one-time chat-communication platfrom in terminal private environment
 ## Requirements
 - Python 3.11+
 - Git
+
+## Client install (Linux)
+```bash
+git clone https://github.com/ime/secure-chat.git
+cd secure-chat
+bash scripts/install-client.sh
+bash scripts/run-client.sh
+```
+
+## Client install (Windows)
+```bash
+git clone https://github.com/ime/secure-chat.git
+cd secure-chat
+bash scripts/install-client.sh
+bash scripts/run-client.sh
+```
