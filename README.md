@@ -4,7 +4,7 @@ End-to-end encrypted real-time chat application for a university cryptography pr
 
 Designed for Winows OS and Linux OS !
 
-It is one-time chat-communication platfrom in real private environment
+It is one-time chat-communication platfrom in terminal private environment
 
 ## Features
 - Secure authentication
