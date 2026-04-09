@@ -1,10 +1,10 @@
 # Secure Chat called Marinac
 
-End-to-end encrypted real-time chat application for a university cryptography project.
+End-to-end encrypted real-time chat application for cryptography project.
 
 Designed for Winows OS and Linux OS !
 
-It is one-time chat-communication platfrom in terminal private environment
+It is one-time chat-communication platfrom living in temporary terminal environment :D
 
 ## Features
 - Secure authentication
