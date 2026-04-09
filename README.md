@@ -4,7 +4,7 @@ End-to-end encrypted real-time chat application for cryptography project.
 
 Designed for Winows OS and Linux OS !
 
-It is chat-communication platfrom living in your temporary terminal environment for Enterprise SECRET peer-to-peer comunication. :D
+It is chat-communication platfrom living in your temporary terminal environment for private Enterprise peer-to-peer comunication. :D
 
 ## Features
 - Secure authentication
